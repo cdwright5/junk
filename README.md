@@ -23,3 +23,4 @@ AOCwords <- tweet_words %>%
   filter(sum(n) >= 5) %>%
   ungroup()
   
+  txt txt
